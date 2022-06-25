@@ -24,3 +24,12 @@ Training code: Training_model.ipynb
 
 
 Predicting code: Predict_results.ipynb
+
+
+Predict on video: Predict_fromvideo.ipynb
+
+
+Result video: video_results1.mp4
+
+
+Video about me running the predict code: video_minhchung.mp4
